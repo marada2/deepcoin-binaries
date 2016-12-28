@@ -1,0 +1,11 @@
+Dependencies:
+libdb5.1++ libboost-system1.54.0 libboost-filesystem1.54.0 libboost-program-options1.54.0 libboost-thread1.54.0
+
+Proposed dependencies for compilation:
+qt4-qmake libqt4-dev libdb5.1++-dev g++ libleveldb-dev libssl-dev libboost-all-dev
+
+sources link:
+https://github.com/Deepcoinbiz/Deepcoin
+
+Deepcoin is released under the terms of the MIT license. See COPYING for more information or see:
+http://opensource.org/licenses/MIT
